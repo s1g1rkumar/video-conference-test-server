@@ -1,0 +1,13 @@
+{
+     "name": "CallCafe",
+     "description": "Signalling server for CallCafe",
+     "version": "1.0.0",
+     "dependencies": {
+          "dotenv": "^10.0.0",
+          "express": "",
+          "fs": "0.0.1-security",
+          "path": "^0.12.7",
+          "socket.io": "^2.3.0",
+          "socketio-file-upload": "^0.7.3"
+     }
+}
